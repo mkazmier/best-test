@@ -28,6 +28,10 @@ test.plot_posterior(ref_val=0)
 plt.show()
 ```
 
+## Requirements
+- Python >= 3.4
+- pymc3 >= 3.1
+
 ## Notes
 This program was written as a part of my internship in MAASTRO Clinic Knowledge Engineering team. It is available under the MIT licence.
 
